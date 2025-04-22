@@ -7,8 +7,9 @@ will add to a txt or csv file.
 <br> [x] pose name (translation, english sanskrit & devanagari script)
 <br> [] description 
 <br> **Still need to:**
-<br> [] scrape description
-<br> [] IO to txt or CSV
+<br> [] code - scrape description
+<br> [] code - IO to txt or CSV
+<br> [] readme - add how to run this section
 
 
 
