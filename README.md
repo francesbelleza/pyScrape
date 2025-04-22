@@ -1,10 +1,11 @@
 # pyScrape
 
-Objective: practicing scraping
+Objective: This program automatically scrapes the below info and then it 
+will add to a txt or csv file.
 Source: Pocket Yoga
 Collecting: 
-- pose name (translation & english script)
-- description
+[x]pose name (translation, english sanskrit & devanagari script)
+[]description 
 
 
 
