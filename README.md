@@ -2,14 +2,17 @@
 
 **Objective:** This program automatically scrapes the below info & then it 
 will add to a txt or csv file.
-<br/>**Source:** Pocket Yoga
-<br/>**Collecting:** 
-<br> [x] pose name (translation, english sanskrit & devanagari script)
-<br> [] description 
-<br> **Still need to:**
-<br> [] code - scrape description
-<br> [] code - IO to txt or CSV
-<br> [] readme - add how to run this section
+
+**Source:** Pocket Yoga
+
+**Collecting:** 
+- [x] pose name (translation, english sanskrit & devanagari script)
+- [ ] description 
+
+ **Still need to:**
+- [ ] code - scrape description
+- [ ] code - IO to txt or CSV
+- [ ] readme - add how to run this section
 
 
 
