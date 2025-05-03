@@ -7,7 +7,7 @@ data = requests.get(url).json()
 out_path = "poses_names.txt"
 with open(out_path, "w", encoding="utf-8") as f:
 
-    f.write("Name\tSanskrit\n")
+    f.write("Latin Name - Sanskrit - Translation\n")
 
     for pose in data:
         sanskrit_list = pose.get("sanskrit_names", [])
