@@ -1,3 +1,28 @@
+import requests
+
+url = "https://www.pocketyoga.com/poses.json"
+resp = requests.get(url)
+data = resp.json()
+print(data[0].keys())
+
+out_path = "poses.txt"
+with open(out_path, "w", encoding="utf-8") as f:
+
+    f.write("Name\tSanskrit\tDescription\n")
+
+    for pose in data:
+        name = pose.get("latin", "").strip()
+        sanskrit = pose.get("devanagari", "").strip()
+        translation = pose.get("simplified", "").strip()
+        description= pose.get("description", "").replace("\n", " ").strip()
+
+        f.write(f"{name}\t{sanskrit}\t{description}\n")
+
+print(f"Wrote {len(data)} poses to {out_path}")
+
+
+
+'''
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
@@ -5,9 +30,6 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
-
-#service = Service("/opt/homebrew/bin/chromedriver")
-#driver = webdriver.Chrome(service=service)
 
 #open up chrome, head to pocketyoga -> poses, wait until each pose is loaded
 driver = webdriver.Chrome()
@@ -52,3 +74,4 @@ driver.quit()
 
 ########## NEED TO SCRAPE DESCRIPTIONS
 ########## WILL ADD A PART WHERE IT WILL WRITE ALL THE INFO INTO A CSV OR TXT
+'''
