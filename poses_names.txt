@@ -1,0 +1,320 @@
+Name	Sanskrit
+ākarṇa dhanurāsana	आकर्ण धनुरासन	akarna dhanurasana
+utkaṭāsana	उत्कटासन	utkatasana
+supta nitambāsana	सुप्त नितम्बासन	supta nitambasana
+parivṛtta svarga dvijāsana	परिवृत्त स्वर्ग द्विजासन	parivritta svarga dvijasana
+ānanda bālāsana	आनन्द बालासन	ananda balasana
+ubhaya pādāṅguṣṭhāsana	उभय पादाङ्गुष्ठासन	ubhaya padangushthasana
+ūrdhva mukha paścimottānāsana	ऊर्ध्व मुख पश्चिमोत्तानासन	urdhva mukha paschimottanasana
+nāvāsana	नावासन	navasana
+ardha nāvāsana	अर्ध नावासन	ardha navasana
+ardha nāvāsana	अर्ध नावासन	ardha navasana
+baddha koṇāsana	बद्ध कोणासन	baddha konasana
+baddha koṇāsana a	बद्ध कोणासन अ	baddha konasana a
+baddha koṇāsana b	बद्ध कोणासन ब्	baddha konasana b
+dhanurāsana	धनुरासन	dhanurasana
+pādāṅguṣṭha dhanurāsana a	पादाङ्गुष्ठ धनुरासन अ	padangushtha dhanurasana a
+pādāṅguṣṭha dhanurāsana b	पादाङ्गुष्ठ धनुरासन ब्	padangushtha dhanurasana b
+vyāghrāsana	व्याघ्रासन	vyaghrasana
+pārśva dhanurāsana	पार्श्व धनुरासन	parshva dhanurasana
+pārśva bālāsana	पार्श्व बालासन	parshva balasana
+cakravākāsana	चक्रवाकासन	chakravakasana
+setu bandha sarvāṅgāsana	सेतु बन्ध सर्वाङ्गासन	setu bandha sarvangasana
+eka pāda setu bandha sarvāṅgāsana	एक पाद सेतु बन्ध सर्वाङ्गासन	eka pada setu bandha sarvangasana
+uṣṭrāsana	उष्ट्रासन	ushtrasana
+mārjārīāsana	मार्जारीआसन	marjariasana
+utthita cakravākāsana	उत्थित चक्रवाकासन	utthita chakravakasana
+utkaṭāsana	उत्कटासन	utkatasana
+utkaṭāsana	उत्कटासन	utkatasana
+parivṛtta utkaṭāsana	परिवृत्त उत्कटासन	parivritta utkatasana
+parivṛtta baddha utkaṭāsana	परिवृत्त बद्ध उत्कटासन	parivritta baddha utkatasana
+svarga dvijāsana	स्वर्ग द्विजासन	svarga dvijasana
+utthita parivṛtta utkaṭāsana	उत्थित परिवृत्त उत्कटासन	utthita parivritta utkatasana
+utthita bālāsana	उत्थित बालासन	utthita balasana
+bālāsana	बालासन	balasana
+bālāsana	बालासन	balasana
+gaṇḍa bheruṇḍāsana	गण्ड भेरुण्डासन	ganda bherundasana
+ardha bhujaṅgāsana	अर्ध भुजङ्गासन	ardha bhujangasana
+bhujaṅgāsana	भुजङ्गासन	bhujangasana
+rāja bhujaṅgāsana	राज भुजङ्गासन	raja bhujangasana
+śavāsana	शवासन	shavasana
+supta daṇḍāsana	सुप्त दण्डासन	supta dandasana
+advāsana	अद्वासन	advasana
+advāsana	अद्वासन	advasana
+praṇāma	प्रणाम	pranama
+bakāsana	बकासन	bakasana
+eka pāda bakāsana b	एक पाद बकासन ब्	eka pada bakasana b
+ardha candrāsana	अर्ध चन्द्रासन	ardha chandrasana
+kākāsana	काकासन	kakasana
+eka pāda bakāsana a	एक पाद बकासन अ	eka pada bakasana a
+pārśva bakāsana	पार्श्व बकासन	parshva bakasana
+dvi pāda kouṇḍinyāsana	द्वि पाद कोउण्डिन्यासन	dvi pada koundinyasana
+karṇapīḍāsana	कर्णपीडासन	karnapidasana
+bitilāsana	बितिलासन	bitilasana
+ardha pīñca mayūrāsana	अर्ध पीञ्च मयूरासन	ardha pincha mayurasana
+adho mukha śvānāsana	अधो मुख श्वानासन	adho mukha shvanasana
+parivṛtta adho mukha śvānāsana	परिवृत्त अधो मुख श्वानासन	parivritta adho mukha shvanasana
+eka pāda adho mukha śvānāsana	एक पाद अधो मुख श्वानासन	eka pada adho mukha shvanasana
+adho mukha matsyāsana	अधो मुख मत्स्यासन	adho mukha matsyasana
+karāndāvāsana	करान्दावासन	karandavasana
+garuḍāsana	गरुडासन	garudasana
+sukhāsana	सुखासन	sukhasana
+sukhāsana	सुखासन	sukhasana
+parivṛtta sukhāsana	परिवृत्त सुखासन	parivritta sukhasana
+aṣṭāvakrāsana	अष्टावक्रासन	ashtavakrasana
+aṣṭāṅgāsana	अष्टाङ्गासन	ashtangasana
+eka hasta bhujāsana	एक हस्त भुजासन	eka hasta bhujasana
+piṇḍāsana	पिण्डासन	pindasana
+garbha piṇḍāsana	गर्भ पिण्डासन	garbha pindasana
+aśva sañcalanāsana	अश्व सञ्चलनासन	ashva sanchalanasana
+patita tārāsana	पतित तारासन	patita tarasana
+pīñca mayūrāsana	पीञ्च मयूरासन	pincha mayurasana
+eka pāda utkaṭāsana	एक पाद उत्कटासन	eka pada utkatasana
+agnistambhāsana	अग्निस्तम्भासन	agnistambhasana
+agnistambhāsana	अग्निस्तम्भासन	agnistambhasana
+tittibhāsana	तित्तिभासन	tittibhasana
+uttāna pādāsana	उत्तान पादासन	uttana padasana
+matsyāsana	मत्स्यासन	matsyasana
+matsyāsana	मत्स्यासन	matsyasana
+brahmacaryāsana	ब्रह्मचर्यासन	brahmacharyasana
+parivṛtta eka pāda kouṇḍinyāsana	परिवृत्त एक पाद कोउण्डिन्यासन	parivritta eka pada koundinyasana
+eka pāda śīrṣāsana a	एक पाद शीर्षासन अ	eka pada shirshasana a
+eka pāda śīrṣāsana c	एक पाद शीर्षासन च्	eka pada shirshasana c
+eka pāda śīrṣāsana b	एक पाद शीर्षासन ब्	eka pada shirshasana b
+dvi pāda śīrṣāsana a	द्वि पाद शीर्षासन अ	dvi pada shirshasana a
+dvi pāda śīrṣāsana b	द्वि पाद शीर्षासन ब्	dvi pada shirshasana b
+uttānāsana	उत्तानासन	uttanasana
+pādāṅguṣṭhāsana	पादाङ्गुष्ठासन	padangushthasana
+uttānāsana	उत्तानासन	uttanasana
+uttānāsana	उत्तानासन	uttanasana
+ardha uttānāsana	अर्ध उत्तानासन	ardha uttanasana
+parivṛtta uttānāsana	परिवृत्त उत्तानासन	parivritta uttanasana
+caturaṅga daṇḍāsana	चतुरङ्ग दण्डासन	chaturanga dandasana
+bhekāsana	भेकासन	bhekasana
+bhekāsana	भेकासन	bhekasana
+mālāsana	मालासन	malasana
+mālāsana	मालासन	malasana
+parighāsana	परिघासन	parighasana
+gheraṇḍāsana	घेरण्डासन	gherandasana
+utkaṭa koṇāsana	उत्कट कोणासन	utkata konasana
+pādahastāsana	पादहस्तासन	padahastasana
+maksikanagāsana	मक्सिकनगासन	maksikanagasana
+ardha bhekāsana	अर्ध भेकासन	ardha bhekasana
+ardha candrāsana	अर्ध चन्द्रासन	ardha chandrasana
+ardha candra cāpāsana	अर्ध चन्द्र चापासन	ardha chandra chapasana
+baddha ardha candrāsana	बद्ध अर्ध चन्द्रासन	baddha ardha chandrasana
+parivṛtta ardha candrāsana	परिवृत्त अर्ध चन्द्रासन	parivritta ardha chandrasana
+parivṛtta baddha ardha candrāsana	परिवृत्त बद्ध अर्ध चन्द्रासन	parivritta baddha ardha chandrasana
+adho mukha vṛkṣāsana	अधो मुख वृक्षासन	adho mukha vrikshasana
+vṛścikāsana b	वृश्चिकासन ब्	vrischikasana b
+jānu śīrṣāsana a	जानु शीर्षासन अ	janu shirshasana a
+jānu śīrṣāsana b	जानु शीर्षासन ब्	janu shirshasana b
+jānu śīrṣāsana c	जानु शीर्षासन च्	janu shirshasana c
+parivṛtta jānu śīrṣāsana	परिवृत्त जानु शीर्षासन	parivritta janu shirshasana
+sālamba śīrṣāsana a	सालम्ब शीर्षासन अ	salamba shirshasana a
+baddha koṇa śīrṣāsana	बद्ध कोण शीर्षासन	baddha kona shirshasana
+ūrdhva daṇḍāsana	ऊर्ध्व दण्डासन	urdhva dandasana
+sālamba śīrṣāsana b	सालम्ब शीर्षासन ब्	salamba shirshasana b
+sālamba śīrṣāsana c	सालम्ब शीर्षासन च्	salamba shirshasana c
+sālamba śīrṣāsana d	सालम्ब शीर्षासन द्	salamba shirshasana d
+padma śīrṣāsana	पद्म शीर्षासन	padma shirshasana
+pārśva padma śīrṣāsana	पार्श्व पद्म शीर्षासन	parshva padma shirshasana
+eka pāda śīrṣāsana	एक पाद शीर्षासन	eka pada shirshasana
+pārśva eka pāda śīrṣāsana	पार्श्व एक पाद शीर्षासन	parshva eka pada shirshasana
+parivṛtta eka pāda śīrṣāsana	परिवृत्त एक पाद शीर्षासन	parivritta eka pada shirshasana
+pārśva śīrṣāsana	पार्श्व शीर्षासन	parshva shirshasana
+ākuñcanāsana	आकुञ्चनासन	akunchanasana
+mukta hasta śīrṣāsana a	मुक्त हस्त शीर्षासन अ	mukta hasta shirshasana a
+parivṛtta eka pāda śīrṣāsana b	परिवृत्त एक पाद शीर्षासन ब्	parivritta eka pada shirshasana b
+mukta hasta śīrṣāsana b	मुक्त हस्त शीर्षासन ब्	mukta hasta shirshasana b
+mukta hasta śīrṣāsana c	मुक्त हस्त शीर्षासन च्	mukta hasta shirshasana c
+vīrāsana	वीरासन	virasana
+ardha vīrāsana	अर्ध वीरासन	ardha virasana
+supta ardha vīrāsana	सुप्त अर्ध वीरासन	supta ardha virasana
+supta vīrāsana	सुप्त वीरासन	supta virasana
+utthita supta vīrāsana	उत्थित सुप्त वीरासन	utthita supta virasana
+parivṛtta vīrāsana	परिवृत्त वीरासन	parivritta virasana
+krauñcāsana	क्रौञ्चासन	kraunchasana
+vātāyanāsana	वातायनासन	vatayanasana
+gomukhāsana	गोमुखासन	gomukhasana
+gomukhāsana	गोमुखासन	gomukhasana
+laghu vajrāsana	लघु वज्रासन	laghu vajrasana
+uttāna pristhāsana	उत्तान प्रिस्थासन	uttana pristhasana
+uttāna pristhāsana	उत्तान प्रिस्थासन	uttana pristhasana
+śalabhāsana a	शलभासन अ	shalabhasana a
+viparīta śalabhāsana	विपरीत शलभासन	viparita shalabhasana
+ardha śalabhāsana	अर्ध शलभासन	ardha shalabhasana
+śalabhāsana b	शलभासन ब्	shalabhasana b
+śalabhāsana c	शलभासन च्	shalabhasana c
+daṇḍayamana dhanurāsana	दण्डयमन धनुरासन	dandayamana dhanurasana
+naṭarājāsana	नटराजासन	natarajasana
+parivṛtta naṭarājāsana	परिवृत्त नटराजासन	parivritta natarajasana
+paripūrṇa matsyendrāsana	परिपूर्ण मत्स्येन्द्रासन	paripurna matsyendrasana
+ardha matsyendrāsana	अर्ध मत्स्येन्द्रासन	ardha matsyendrasana
+baddha padmāsana	बद्ध पद्मासन	baddha padmasana
+yoga mudrāsana	योग मुद्रासन	yoga mudrasana
+tolāsana	तोलासन	tolasana
+padmāsana	पद्मासन	padmasana
+ardha padmāsana	अर्ध पद्मासन	ardha padmasana
+baddha pārśvakoṇāsana	बद्ध पार्श्वकोणासन	baddha parshvakonasana
+aṣṭa candrāsana	अष्ट चन्द्रासन	ashta chandrasana
+eka pāda rāja kapotāsana b	एक पाद राज कपोतासन ब्	eka pada raja kapotasana b
+añjaneyāsana	अञ्जनेयासन	anjaneyasana
+eka pāda kouṇḍinyāsana	एक पाद कोउण्डिन्यासन	eka pada koundinyasana
+aśva sañcalanāsana	अश्व सञ्चलनासन	ashva sanchalanasana
+parivṛtta añjaneyāsana	परिवृत्त अञ्जनेयासन	parivritta anjaneyasana
+utthita parivṛtta añjaneyāsana	उत्थित परिवृत्त अञ्जनेयासन	utthita parivritta anjaneyasana
+parivṛtta baddha añjaneyāsana	परिवृत्त बद्ध अञ्जनेयासन	parivritta baddha anjaneyasana
+parivṛtta añjaneyāsana	परिवृत्त अञ्जनेयासन	parivritta anjaneyasana
+utthita parivṛtta añjaneyāsana	उत्थित परिवृत्त अञ्जनेयासन	utthita parivritta anjaneyasana
+parivṛtta baddha añjaneyāsana	परिवृत्त बद्ध अञ्जनेयासन	parivritta baddha anjaneyasana
+vakrasana	वक्रसन	vakrasana
+marīcyāsana c	मरीच्यासन च्	marichyasana c
+marīcyāsana b	मरीच्यासन ब्	marichyasana b
+marīcyāsana a	मरीच्यासन अ	marichyasana a
+marīcyāsana d	मरीच्यासन द्	marichyasana d
+tāḍāsana	ताडासन	tadasana
+tāḍāsana	ताडासन	tadasana
+ardha candrāsana	अर्ध चन्द्रासन	ardha chandrasana
+utthita bhujaṅgāsana	उत्थित भुजङ्गासन	utthita bhujangasana
+ūrdhva vṛkṣāsana	ऊर्ध्व वृक्षासन	urdhva vrikshasana
+ūrdhva hastāsana	ऊर्ध्व हस्तासन	urdhva hastasana
+kapiñjalāsana	कपिञ्जलासन	kapinjalasana
+mayūrāsana	मयूरासन	mayurasana
+padma mayūrāsana	पद्म मयूरासन	padma mayurasana
+lolāsana	लोलासन	lolasana
+kapotāsana	कपोतासन	kapotasana
+eka pāda gālavāsana	एक पाद गालवासन	eka pada galavasana
+eka pāda rāja kapotāsana	एक पाद राज कपोतासन	eka pada raja kapotasana
+ardha kapotāsana	अर्ध कपोतासन	ardha kapotasana
+eka pāda rāja kapotāsana	एक पाद राज कपोतासन	eka pada raja kapotasana
+rāja kapotāsana	राज कपोतासन	raja kapotasana
+phalakāsana	फलकासन	phalakasana
+eka pāda phalakāsana	एक पाद फलकासन	eka pada phalakasana
+vasiṣṭhāsana	वसिष्ठासन	vasishthasana
+utthita vasiṣṭhāsana	उत्थित वसिष्ठासन	utthita vasishthasana
+kaśyapāsana	कश्यपासन	kashyapasana
+kāla bhairavāsana	काल भैरवासन	kala bhairavasana
+pūrvottānāsana	पूर्वोत्तानासन	purvottanasana
+eka pāda pūrvottānāsana	एक पाद पूर्वोत्तानासन	eka pada purvottanasana
+halāsana	हलासन	halasana
+ardha dhanurāsana	अर्ध धनुरासन	ardha dhanurasana
+uttāna śiśosana	उत्तान शिशोसन	uttana shishosana
+ardha hanumānāsana	अर्ध हनुमानासन	ardha hanumanasana
+pārśvottānāsana	पार्श्वोत्तानासन	parshvottanasana
+śaśankāsana	शशन्कासन	shashankasana
+śayanāsana	शयनासन	shayanasana
+kukkuṭāsana	कुक्कुटासन	kukkutasana
+ūrdhva kukkuṭāsana	ऊर्ध्व कुक्कुटासन	urdhva kukkutasana
+bhujapīḍāsana	भुजपीडासन	bhujapidasana
+vṛścikāsana a	वृश्चिकासन अ	vrischikasana a
+paścimottānāsana a	पश्चिमोत्तानासन अ	paschimottanasana a
+ardha baddha padma paścimottānāsana	अर्ध बद्ध पद्म पश्चिमोत्तानासन	ardha baddha padma paschimottanasana
+paścimottānāsana b	पश्चिमोत्तानासन ब्	paschimottanasana b
+paścimottānāsana c	पश्चिमोत्तानासन च्	paschimottanasana c
+paścimottānāsana d	पश्चिमोत्तानासन द्	paschimottanasana d
+parivṛtta paścimottānāsana	परिवृत्त पश्चिमोत्तानासन	parivritta paschimottanasana
+triaṅgā mukha eka pāda paścimottānāsana	त्रिअङ्गा मुख एक पाद पश्चिमोत्तानासन	trianga mukha eka pada paschimottanasana
+upaviṣṭa koṇāsana a	उपविष्ट कोणासन अ	upavishta konasana a
+upaviṣṭa koṇāsana b	उपविष्ट कोणासन ब्	upavishta konasana b
+parighāsana	परिघासन	parighasana
+pāśāsana	पाशासन	pashasana
+parivṛtta sūrya yantrāsana	परिवृत्त सूर्य यन्त्रासन	parivritta surya yantrasana
+setu bandhāsana	सेतु बन्धासन	setu bandhasana
+ūrdhva padmāsana	ऊर्ध्व पद्मासन	urdhva padmasana
+sālamba sarvāṅgāsana	सालम्ब सर्वाङ्गासन	salamba sarvangasana
+baddha koṇa sālamba sarvāṅgāsana	बद्ध कोण सालम्ब सर्वाङ्गासन	baddha kona salamba sarvangasana
+setu bandha sarvāṅgāsana	सेतु बन्ध सर्वाङ्गासन	setu bandha sarvangasana
+eka pāda setu bandha sarvāṅgāsana	एक पाद सेतु बन्ध सर्वाङ्गासन	eka pada setu bandha sarvangasana
+ardha sarvāṅgāsana	अर्ध सर्वाङ्गासन	ardha sarvangasana
+eka pāda sarvāṅgāsana	एक पाद सर्वाङ्गासन	eka pada sarvangasana
+pārśva eka pāda sarvāṅgāsana	पार्श्व एक पाद सर्वाङ्गासन	parshva eka pada sarvangasana
+pārśva sarvāṅgāsana	पार्श्व सर्वाङ्गासन	parshva sarvangasana
+nirālamba sarvāṅgāsana	निरालम्ब सर्वाङ्गासन	niralamba sarvangasana
+parivṛtta pārśvakoṇāsana	परिवृत्त पार्श्वकोणासन	parivritta parshvakonasana
+skandāsana	स्कन्दासन	skandasana
+skandāsana	स्कन्दासन	skandasana
+skandāsana	स्कन्दासन	skandasana
+sarpāsana	सर्पासन	sarpasana
+sālamba bhujaṅgāsana	सालम्ब भुजङ्गासन	salamba bhujangasana
+hanumānāsana	हनुमानासन	hanumanasana
+hanumānāsana	हनुमानासन	hanumanasana
+hanumānāsana	हनुमानासन	hanumanasana
+hanumānāsana	हनुमानासन	hanumanasana
+ūrdhva prasārita eka pādāsana	ऊर्ध्व प्रसारित एक पादासन	urdhva prasarita eka padasana
+ūrdhva prasārita eka pādāsana	ऊर्ध्व प्रसारित एक पादासन	urdhva prasarita eka padasana
+samakoṇāsana	समकोणासन	samakonasana
+daṇḍāsana	दण्डासन	dandasana
+dvi pāda viparīta daṇḍāsana	द्वि पाद विपरीत दण्डासन	dvi pada viparita dandasana
+eka pāda viparīta daṇḍāsana	एक पाद विपरीत दण्डासन	eka pada viparita dandasana
+dūrvāsāsana	दूर्वासासन	durvasasana
+ṛcīkāsana	ऋचीकासन	richikasana
+ardha baddha padmottānāsana	अर्ध बद्ध पद्मोत्तानासन	ardha baddha padmottanasana
+ardha padmāsana	अर्ध पद्मासन	ardha padmasana
+utthita hasta pādāṅguṣṭhāsana b	उत्थित हस्त पादाङ्गुष्ठासन ब्	utthita hasta padangushthasana b
+utthita hasta pādāṅguṣṭhāsana a	उत्थित हस्त पादाङ्गुष्ठासन अ	utthita hasta padangushthasana a
+utthita hasta pādāṅguṣṭhāsana c	उत्थित हस्त पादाङ्गुष्ठासन च्	utthita hasta padangushthasana c
+parivṛtta hasta pādāṅguṣṭhāsana	परिवृत्त हस्त पादाङ्गुष्ठासन	parivritta hasta padangushthasana
+daṇḍayamana jānu śīrṣāsana	दण्डयमन जानु शीर्षासन	dandayamana janu shirshasana
+utthita tāḍāsana	उत्थित ताडासन	utthita tadasana
+supta koṇāsana	सुप्त कोणासन	supta konasana
+jaṭhara parivartānāsana	जठर परिवर्तानासन	jathara parivartanasana
+supta baddha koṇāsana	सुप्त बद्ध कोणासन	supta baddha konasana
+utthita supta baddha koṇāsana	उत्थित सुप्त बद्ध कोणासन	utthita supta baddha konasana
+kapilāsana	कपिलासन	kapilasana
+supta pādāṅguṣṭhāsana b	सुप्त पादाङ्गुष्ठासन ब्	supta padangushthasana b
+supta pādāṅguṣṭhāsana a	सुप्त पादाङ्गुष्ठासन अ	supta padangushthasana a
+parivṛtta supta pādāṅguṣṭhāsana	परिवृत्त सुप्त पादाङ्गुष्ठासन	parivritta supta padangushthasana
+supta kapotāsana	सुप्त कपोतासन	supta kapotasana
+supta matsyendrāsana	सुप्त मत्स्येन्द्रासन	supta matsyendrasana
+supta samakoṇāsana	सुप्त समकोणासन	supta samakonasana
+supta vajrāsana	सुप्त वज्रासन	supta vajrasana
+kūrmāsana	कूर्मासन	kurmasana
+supta kūrmāsana	सुप्त कूर्मासन	supta kurmasana
+supta trivikramāsana	सुप्त त्रिविक्रमासन	supta trivikramasana
+ardha pūrvottānāsana	अर्ध पूर्वोत्तानासन	ardha purvottanasana
+vajrāsana	वज्रासन	vajrasana
+parivṛtta vajrāsana	परिवृत्त वज्रासन	parivritta vajrasana
+vyāghrāsana	व्याघ्रासन	vyaghrasana
+pādāṅguṣṭhāsana	पादाङ्गुष्ठासन	padangushthasana
+utthita tittibhāsana	उत्थित तित्तिभासन	utthita tittibhasana
+vṛkṣāsana	वृक्षासन	vrikshasana
+vṛkṣāsana	वृक्षासन	vrikshasana
+vṛkṣāsana	वृक्षासन	vrikshasana
+patan vṛkṣāsana	पतन् वृक्षासन	patan vrikshasana
+baddha trikoṇāsana	बद्ध त्रिकोणासन	baddha trikonasana
+trikoṇāsana	त्रिकोणासन	trikonasana
+parivṛtta trikoṇāsana	परिवृत्त त्रिकोणासन	parivritta trikonasana
+trivikramāsana a	त्रिविक्रमासन अ	trivikramasana a
+pavanamuktāsana	पवनमुक्तासन	pavanamuktasana
+pavanamuktāsana	पवनमुक्तासन	pavanamuktasana
+ūrdhva mukha śvānāsana	ऊर्ध्व मुख श्वानासन	urdhva mukha shvanasana
+ūrdhva mukha śvānāsana	ऊर्ध्व मुख श्वानासन	urdhva mukha shvanasana
+viśvāmitrāsana	विश्वामित्रासन	vishvamitrasana
+viśvāmitrāsana	विश्वामित्रासन	vishvamitrasana
+ardha viśvāmitrāsana	अर्ध विश्वामित्रासन	ardha vishvamitrasana
+baddha vīrabhadrāsana	बद्ध वीरभद्रासन	baddha virabhadrasana
+vīrabhadrāsana a	वीरभद्रासन अ	virabhadrasana a
+vīrabhadrāsana b	वीरभद्रासन ब्	virabhadrasana b
+pārśvakoṇāsana	पार्श्वकोणासन	parshvakonasana
+utthita pārśvakoṇāsana	उत्थित पार्श्वकोणासन	utthita parshvakonasana
+vīrabhadrāsana c	वीरभद्रासन च्	virabhadrasana c
+vīrabhadrāsana c	वीरभद्रासन च्	virabhadrasana c
+viparīta vīrabhadrāsana	विपरीत वीरभद्रासन	viparita virabhadrasana
+añjaneyāsana	अञ्जनेयासन	anjaneyasana
+vīrabhadrāsana a	वीरभद्रासन अ	virabhadrasana a
+parivṛtta baddha pārśvakoṇāsana	परिवृत्त बद्ध पार्श्वकोणासन	parivritta baddha parshvakonasana
+ūrdhva dhanurāsana	ऊर्ध्व धनुरासन	urdhva dhanurasana
+ardha ūrdhva dhanurāsana	अर्ध ऊर्ध्व धनुरासन	ardha urdhva dhanurasana
+eka pāda ūrdhva dhanurāsana	एक पाद ऊर्ध्व धनुरासन	eka pada urdhva dhanurasana
+prasārita pādottānāsana a	प्रसारित पादोत्तानासन अ	prasarita padottanasana a
+prasārita pādottānāsana b	प्रसारित पादोत्तानासन ब्	prasarita padottanasana b
+prasārita pādottānāsana c	प्रसारित पादोत्तानासन च्	prasarita padottanasana c
+prasārita pādottānāsana d	प्रसारित पादोत्तानासन द्	prasarita padottanasana d
+parivṛtta prasārita pādottānāsana	परिवृत्त प्रसारित पादोत्तानासन	parivritta prasarita padottanasana
+pārśva prasārita pādottānāsana	पार्श्व प्रसारित पादोत्तानासन	parshva prasarita padottanasana
+parivṛtta prasārita pādottānāsana	परिवृत्त प्रसारित पादोत्तानासन	parivritta prasarita padottanasana
+camatkārāsana	चमत्कारासन	chamatkarasana
+eka pāda pavanamuktāsana	एक पाद पवनमुक्तासन	eka pada pavanamuktasana
+eka pāda pavanamuktāsana	एक पाद पवनमुक्तासन	eka pada pavanamuktasana
+yoga nidrāsana	योग निद्रासन	yoga nidrasana

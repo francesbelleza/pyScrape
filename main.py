@@ -1,25 +1,33 @@
 import requests
+import json
 
 url = "https://www.pocketyoga.com/poses.json"
-resp = requests.get(url)
-data = resp.json()
-print(data[0].keys())
+data = requests.get(url).json()
 
-out_path = "poses.txt"
+out_path = "poses_names.txt"
 with open(out_path, "w", encoding="utf-8") as f:
 
-    f.write("Name\tSanskrit\tDescription\n")
+    f.write("Name\tSanskrit\n")
 
     for pose in data:
-        name = pose.get("latin", "").strip()
-        sanskrit = pose.get("devanagari", "").strip()
-        translation = pose.get("simplified", "").strip()
-        description= pose.get("description", "").replace("\n", " ").strip()
+        sanskrit_list = pose.get("sanskrit_names", [])
+        if not sanskrit_list:
+            continue
 
-        f.write(f"{name}\t{sanskrit}\t{description}\n")
+        actual_list = sanskrit_list[0]
+
+        name = actual_list.get("latin", "").strip()
+        sanskrit = actual_list.get("devanagari", "").strip()
+        translation = actual_list.get("simplified", "").strip()
+
+        translation_list = actual_list.get("translation", [])
+        meaning = ""
+        if translation_list:
+            meaning = translation_list[0].get("description", "").strip()
+
+        f.write(f"{name}\t{sanskrit}\t{translation}\n") #\t{description}
 
 print(f"Wrote {len(data)} poses to {out_path}")
-
 
 
 '''

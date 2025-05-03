@@ -7,12 +7,11 @@ will add to a txt or csv file.
 
 **Collecting:** 
 - [x] pose name (translation, english sanskrit & devanagari script)
-- [x] description 
-- [x] code - IO to txt or CSV
+- [ ] description
 
  **Still need to:**
 - [ ] readme - add how to run this section
-- [ ] text file is messy when IO writing, need to organize better
+- [ ] code - description 
 
 
 
