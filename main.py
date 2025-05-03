@@ -1,3 +1,4 @@
+# using JSON
 import requests
 import json
 
@@ -30,7 +31,7 @@ with open(out_path, "w", encoding="utf-8") as f:
 print(f"Wrote {len(data)} poses to {out_path}")
 
 
-'''
+''' FRONT END WAY USING SELENIUM -----------------------------------------------------
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
@@ -79,7 +80,4 @@ for link in pose_links:
     wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "section.posesDisplay ul li a")))
 
 driver.quit()
-
-########## NEED TO SCRAPE DESCRIPTIONS
-########## WILL ADD A PART WHERE IT WILL WRITE ALL THE INFO INTO A CSV OR TXT
-'''
+-------------------------------------------------------------------------------------------------- '''
