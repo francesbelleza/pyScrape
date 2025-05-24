@@ -7,7 +7,7 @@ will add to a txt or csv file.
 
 **Collecting:** 
 - [x] pose name (translation, english sanskrit & devanagari script)
-- [ ] description
+- [x] description
 
  **Still need to:**
 - [ ] readme - add how to run this section
